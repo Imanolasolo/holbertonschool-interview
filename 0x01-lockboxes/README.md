@@ -50,7 +50,7 @@ Write a method that determines if all the boxes can be opened.
 
 *   GitHub repository: `holbertonschool-interview`
 *   Directory: `0x01-lockboxes`
-*   File: [0-lockboxes.py]()
+*   File: [0-lockboxes.py](https://github.com/Imanolasolo/holbertonschool-interview/blob/master/0x01-lockboxes/0-lockboxes.py)
 
 ## Credits
 
