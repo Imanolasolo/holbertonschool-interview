@@ -51,7 +51,7 @@ Number of operations: `6`
 
 *   GitHub repository: `holbertonschool-interview`
 *   Directory: `0x02-minimum_operations`
-*   File: [0-minoperations.py]()
+*   File: [0-minoperations.py](https://github.com/Imanolasolo/holbertonschool-interview/blob/master/0x02-minimum_operations/0-minoperations.py)
 
 ## Credits
 
