@@ -40,7 +40,7 @@ Read: [Queen](https://intranet.hbtn.io/rltoken/u80efQj5HUl9-FwkzWieCA "Queen"), 
 
 *   GitHub repository: `holbertonschool-interview`
 *   Directory: `0x05-nqueens`
-*   File: [0-nqueens.py]()
+*   File: [0-nqueens.py](https://github.com/Imanolasolo/holbertonschool-interview/blob/master/0x05-nqueens/0-nqueens.py)
 
 ## Credits
 
