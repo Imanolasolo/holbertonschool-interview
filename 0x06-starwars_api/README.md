@@ -69,7 +69,7 @@ Write a script that prints all characters of a Star Wars movie:
 
 *   GitHub repository: `holbertonschool-interview`
 *   Directory: `0x06-starwars_api`
-*   File: [0-starwars_characters.js]()
+*   File: [0-starwars_characters.js](https://github.com/Imanolasolo/holbertonschool-interview/blob/master/0x06-starwars_api/0-starwars_characters.js)
 
 ## Credits
 
