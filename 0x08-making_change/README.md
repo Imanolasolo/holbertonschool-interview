@@ -46,7 +46,7 @@ Given a pile of coins of different values, determine the fewest number of coins 
 
 *   GitHub repository: `holbertonschool-interview`
 *   Directory: `0x08-making_change`
-*   File: [0-making_change.py]()
+*   File: [0-making_change.py](https://github.com/Imanolasolo/holbertonschool-interview/blob/master/0x08-making_change/0-making_change.py)
 
 ## Credits
 
