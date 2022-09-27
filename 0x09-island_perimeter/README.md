@@ -49,7 +49,7 @@ Create a function `def island_perimeter(grid):` that returns the perimeter of th
 
 *   GitHub repository: `holbertonschool-interview`
 *   Directory: `0x09-island_perimeter`
-*   File: [0-island_perimeter.py]()
+*   File: [0-island_perimeter.py](https://github.com/Imanolasolo/holbertonschool-interview/blob/master/0x09-island_perimeter/0-island_perimeter.py)
 
 ## Credits
 
